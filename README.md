@@ -1,1 +1,1 @@
-# Machine-Learning-Neural-Networks-Applications
+# Machine Learning Neural Networks Applications
